@@ -1,0 +1,31 @@
+                    Projets GC licence 2
+Il y a deux parties de rendu : le rapport qui contient les noms des membres du 
+groupe et explication du code du projet et les sources des programmes. 
+Avant de déposer votre travail pratique, assurez-vous de respecter la liste de 
+contrôle suivante : 
+Les noms (prénom et noms) du trinôme sont présents dans le fichier ou rapport.  
+Le fichier est complètement rempli. 
+Respectez les noms de fichiers de chaque exercice. Exemple groupes_1 
+Utilisez le même nom que celui qui a été demandé dans les travaux pratiques. 
+Votre code est bien commenté et indenté(lisibles). 
+Votre code peut être compilé sans aucune erreur (et si possible, sans aucun 
+avertissement). 
+NB : La lisibilité, la qualité, l’exactitude et la documentation du programme 
+seront prises en compte lors de la correction des projets.  
+Créez un dossier dont le nom du dossier est le numéro du groupe exemple « 
+Groupe 1 » 
+Créez un document Word qui liste, sur la page de couverture, les noms des 
+membres du groupe ayant contribué au projet ainsi que le sujet traité. Le 
+document doit également inclure, en contenu principal, un rapport descriptif du 
+projet. 
+
+                    Projet 4 : Gestion de Stock de Magasin 
+Description : Implémentez une application pour gérer le stock d'un magasin avec des 
+informations comme le nom du produit, la quantité disponible, le prix, et la catégorie. Le 
+programme devrait être capable d'ajouter des nouveaux produits, de mettre à jour la 
+quantité d'un produit, de supprimer un produit, et d'afficher l'état du stock. Utilisez des 
+fichiers pour sauvegarde dans un fichier texte permettra d'enregistrer ces informations pour 
+une utilisation ultérieure. 
+Fonctionnalités et Résultats Attendus : L'utilisateur pourra ajouter des produits, mettre à jour 
+la quantité existante, et supprimer des articles obsolètes. Le programme affichera l'état actuel 
+du stock et enregistrera ces informations dans un fichier texte pour garantir la continuité. 
